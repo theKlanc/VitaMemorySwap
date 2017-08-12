@@ -12,7 +12,11 @@ Feel free to DM me on twitter @TheKlanc for any question/problem you might have 
 
 ## Instructions:
 
-1-Download both gamesd.skprx
+0-Make sure to have both an sd2vita and a memory card inserted, if not, what's the point?
+
+0.5- If you don't have a legit memory card you might get stuck out of henkaku, so don't even try please.
+
+1-Download both gamesd.skprx:
 
 Link to gamesd.skprx (mounts SD2VITA to ux0 and old vita memory card to uma0):
 https://drive.google.com/file/d/0BzcqzW6QWZzzLTItUzB3dDZ3OE0/view?usp=sharing
