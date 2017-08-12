@@ -1,8 +1,14 @@
 # VitaMemorySwap
 
 ## Description:
+
 A simple homebrew that allows you to swap sd2vita and the memory card's mounting points, so you can use both to install games and switch between them without too much of a hassle.
 Once installed just open it and in less than half a minute you'll be using the other memory card/sd2vita. Note that each swap restarts your console, so save your progress before switching.
+
+## DISCLAIMER:
+
+It's not my problem if your console explodes or whatever, if you don't trust this just check the 4 lines of code and compile by yourself.
+Feel free to DM me on twitter @TheKlanc for any question/problem you might have :D
 
 ## Instructions:
 
