@@ -32,7 +32,7 @@ https://drive.google.com/open?id=0B66cjEczhjhaQmk3RFR1U3dNUUE
 
 4-Download and install MemorySwap.vpk
 
-5-Profit (If you execute MemorySwap and it switches to a card where MolecularShell isn't installed, just use https://henkaku.xyz/go/ and press R1 when the purple text appears, note that this will wipe your config.txt file on ur0:tai, remember to restore it)
+5-Profit (If you execute MemorySwap and it switches to a card where MolecularShell isn't installed, just use https://henkaku.xyz/go/ and press R1 when the purple text appears, note that this will wipe your config.txt file on ur0:tai, remember to restore it. Keep in mind that both memory cards are separate, so you'll also need to reinstall vitashell or whatev, but once you switch again you'll get your other games/homebrew back, don't panic)
 
 ## Credits:
 
