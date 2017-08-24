@@ -38,4 +38,4 @@ https://drive.google.com/open?id=0B66cjEczhjhaQmk3RFR1U3dNUUE
 
 ## Credits:
 
-Credits to whoever wants them, this is a simply stupid homebrew, so no need to even thank me for that. Thanks Molecule (Davee, Proxima, xyz, and YifanLu) for making everything about this possible. Thanks to TheFlow for his contributions to the scene and thanks to everybody that made SD2VITA possible. I'm not even sure why these credits are so long, again, this is only 4 lines of C.
+Credits to whoever wants them, this is a stupidly simple homebrew, so no need to even thank me for that. Thanks Molecule (Davee, Proxima, xyz, and YifanLu) for making everything about this possible. Thanks to TheFlow for his contributions to the scene and thanks to everybody that made SD2VITA possible. I'm not even sure why these credits are so long, again, this is only 4 lines of C.
