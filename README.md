@@ -14,7 +14,7 @@ Feel free to DM me on twitter @TheKlanc for any question/problem you might have 
 
 0-Make sure to have both an sd2vita and a memory card inserted, if not, what's the point?
 
-0.5- If you don't have a legit memory card you might get stuck without henkaku (on a Vita Slim this can't happen), so don't even try please.
+0.5- ~~If you don't have a legit memory card you might get stuck without henkaku (on a Vita Slim this can't happen), so don't even try please.~~ You can use MLThaku if you get stuck without sd2vita nor a legit memory card.
 
 1-Download both gamesd.skprx:
 
